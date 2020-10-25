@@ -1,0 +1,29 @@
+# Creative Tab
+itemGroup.ambienceblock=Ambience Block Mod
+
+# Blocks
+tile.ambienceblock.ambience_block.name=Ambience Block
+
+# GUI
+gui.ambienceblock.button.confirm=Confirm Changes
+gui.ambienceblock.music_id=Sound ID
+gui.ambienceblock.music_par=Sound Parameters
+gui.ambienceblock.bounds=Bounds Detection
+gui.ambienceblock.delay=Delay
+gui.ambienceblock.bounds.sphere=Sphere
+gui.ambienceblock.bounds.cylinder=Cylinder
+gui.ambienceblock.bounds.cubic=Cubic
+gui.ambienceblock.radius=Radius
+gui.ambienceblock.length=Length
+gui.ambienceblock.priority=Priority
+gui.ambienceblock.channel=Channel
+gui.ambienceblock.volume=Volume
+gui.ambienceblock.pitch=Pitch
+gui.ambienceblock.copy=Copy
+gui.ambienceblock.paste=Paste
+gui.ambienceblock.offset=Offset
+gui.ambienceblock.min=Min
+gui.ambienceblock.max=Max
+gui.ambienceblock.type=Type
+gui.ambienceblock.axis=Axis
+gui.ambienceblock.random=Random

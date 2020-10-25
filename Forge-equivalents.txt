@@ -1,0 +1,3 @@
+Equivalent de tooltip en 1.12 => drawHoveringText() dans GuiScreen
+Equivalent de Minecraft.getMainWindow().getScaleFactor() => new ScaledResolution(mc).getScaleFactor()
+Equivalent de Minecraft.getSoundHandler().getAvailableSounds => SoundRegistry.keySet()

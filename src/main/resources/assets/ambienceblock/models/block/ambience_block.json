@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_top",
+  "textures": {
+    "top": "ambienceblock:blocks/speaker_front",
+    "side": "ambienceblock:blocks/speaker_side"
+  }
+}
